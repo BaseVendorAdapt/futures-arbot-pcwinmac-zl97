@@ -1,4 +1,4 @@
-# 
+# Official futures arbitrage bot extensions for Mac OS | VIP futures arbitrage bot extensions for PC Windows. Featuring futures trading and real-time price feeds — optimized for maximum performance on every platform.
 
 
 
